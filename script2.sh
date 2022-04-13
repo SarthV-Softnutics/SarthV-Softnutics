@@ -9,6 +9,7 @@ pwd
 ll
 
 ls -la
+$HOME
 
 
 echo END OF SCRIPT
