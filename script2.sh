@@ -7,7 +7,8 @@ echo New Job for PR.
 
 pwd
 
-ll
+echo Hello World
+
 
 
 
