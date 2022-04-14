@@ -1,5 +1,5 @@
 """
-This script is to replicate results.
+This script is to replicate results
 Task Name : Poetry Exploration
 Project : Cadence USA
 Project Lead : Toral Mevada
