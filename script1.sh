@@ -4,8 +4,8 @@
 # Function Defination 
 test_python()
 {
-    #pyversion=$(python3 -V 2>&1 | grep -Po '(?=Python)(.+)')
-    pyversion=''
+    pyversion=$(python3 -V 2>&1 | grep -Po '(?=Python)(.+)')
+    #pyversion=''
     py=3.8
 
     if [[ -z "$pyversion" ]]
