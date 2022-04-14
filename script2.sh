@@ -9,7 +9,7 @@ pwd
 
 ll
 
-ls -l
+
 
 
 
