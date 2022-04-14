@@ -27,7 +27,7 @@ def scriptselect():
 
 print("Hello, Welcome to the XNNC Setup Guide.\n")
 print("Please select Tensorflow version from below mentioned options.\n")
-#print("Please select from TF1.x or TF2.x by typing it below...")
+print("Please select from TF1.x or TF2.x by typing it below...")
 
 tensorchoice = input("Please select from TF1.x or TF2.x by typing it below : \n")
 
