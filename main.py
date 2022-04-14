@@ -4,7 +4,7 @@ Task Name : Poetry Exploration
 Project : Cadence USA
 Project Lead : Toral Mevada
 
-This script is developed with python version 3.8.10
+This script is developed with python version 3.8
 
 """
 
