@@ -2,7 +2,7 @@
 This script is to replicate results
 Task Name : Poetry Exploration
 Project : Cadence USA
-Project Lead : Toral Mevada
+Project Lead : Toral
 
 This script is developed with python version 3.8
 
